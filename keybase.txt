@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/brentstewart
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brentstewart.net
+  * I am brentstewart (https://keybase.io/brentstewart) on keybase.
+  * I have a public key with fingerprint 1ABC 7905 50E6 5F15 1494  C268 A9EC EFE7 3BE2 2F61
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b909a744aa53facd4f8c5f88d5dc052c181faec0932c5fa7a5b4a66ea643e83c0a",
+      "fingerprint": "1abc790550e65f151494c268a9ecefe73be22f61",
+      "host": "keybase.io",
+      "key_id": "a9ecefe73be22f61",
+      "kid": "01014b7c6e24ddcd06caec4d615f4245b64db6bef32bc525793169a9bb74742570820a",
+      "uid": "35eea6b5a901bd1c4983a7692357d319",
+      "username": "brentstewart"
+    },
+    "merkle_root": {
+      "ctime": 1550626151,
+      "hash_meta": "efcfc6d88513e41a79b0a835d43503ec0e82838580f65fab6ab942b6ea365b81",
+      "seqno": 4795885
+    },
+    "revoke": {
+      "sig_ids": [
+        "402c53b17fe180495853b516148eafa9e5eb94941c7b2bde6a981da63fb7fd2d0f"
+      ]
+    },
+    "service": {
+      "hostname": "brentstewart.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550626151,
+  "expire_in": 157680000,
+  "prev": "66c8abf63e8accd15b343922366aef865ce0c884eba9eac38acf9722708805fc",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMP7AnicbZN7TBRHHMcPEBFaiza1mlaqrEZNFdzZnZmdPZVijY8UrTE+8AE9Z2Zn
+4Qp3x+3tnRKKxtTaxEZSWhqlTYj1RUqrkoCPFm0raYyxFDVW1FS0gin1UYw2KoZG
+Okdq+o/7z2Zmvr/vfH+fmflpeJInLeGrO3d7ZnRNpwk/t26IegpK9xdVKCxklSve
+CqVEDP5EqSUirq/EbyleRQWaykzVpAaElCLdptyCNuHIJsRCFleRxgEBNhVcNXVN
+zlODIgYpxoJiqAuic5Uq0xTbHywSTpnjD7rSFlDGDVNFSBUY2QABaEKuYUJNwYUt
+DJ0JTbMxkIXFoUi8QoZjNCKy/SE5Jwe+wXjP0D/NrQLIDI6FBi2LWyrmMiK0MEA2
+1CBiGFoMM2HrGuNIQ4apA2xSkzEDGlCOVaIN5o4O2ulIyHYYoqYKmAU4NIlODWxq
+OjIsHZhxYUQ4QRoQUs0cEXQjrlhHHVepnKYEhFNSKnxOKOTGAXPXH5cB2T3WZCAg
+m6SRYl9AuFRWC5vbHFuEIKALCKhhMpUSHVlQR6ouOQuiEZ0gotqSHWWYMhNqTPLW
+MWIkziAiwsGQ4oWGiaSNTOCIWKhExDeP+IskuojiXaNAVZ6XzoBhC0BUKLVyhAAG
+kAhqS7RISGcTAm4wjVkCU5MAi2LdZoZtaZZqK4WV8c2cmJ8PmsfP6hkMsoPClanK
+nJAb4qFSuVrsumURb5yNW14Wl68TzPefkY/5g5a8LbIiJpyIPxSUrKTyGdjE+jK/
+I3z+uAIZmKjyi+8jYtISY04os7G8g5RzCyCmQ93UNB1jKmyCERcqJwQKJlulXJcq
+2zQ0TR49UZHN/+cIiMxJi6SnpBekbtQRSmXriYIhnoQ0z9DkxPgz8qSljnj6uH6v
+G+HZa80dnX99/uXwrg/dmUsnZDY0ZZ3tbmwc2HcynNTgLp5Zc3jukZr84yMzW5sv
+Tjri7X77BZpRe7a6qcq7vr7/6sqsE+C9pJSLqbE251w++fzbrKZaGh45Z0j/Z9d7
+/bQ3OayJ4aW3VxfOW7SirKF9y/JAyt5Vub2R7z8IHVq7YVt+b+LuCeayk79WttSp
+z7P+m6M69q9YNruiIqCe+qfq6sSirZMn/Ji6OSlr9Ju7PPuGHLp39MrD8oeFsWPT
+SM+TnNikvIv7OnLaLlxOejTl7pytydXhtZ6X+65lHj4wkBEGyT3pY1+7PranDx87
+3dL411tsR5VbfcDXNtC85rvEtNkNHbkzFmTcjT661fxS6uLptfl/XNu5vT7wZP3R
+h0OPr/IP++Lv8SNL3jnYut17v3hoLt/TtbLrwkJWfv5dnl6T17Ct5sWjX469x1LR
+6OjqG4cL7q95ENx4ruPckvMLx2WP63l8sGjTnTPRT74+Mym9PH/W7le/edzcF/S1
+sVD6lE+3TS5v6Z51uz7YvtD9aPsbm6eevNN5o2Egmphd/GBp/c2dF9oONO7pTDhF
+ftk798jGS6MyrPbUS/Ou7F7e+/6pOm977fy1ZwsHflDndU8dpm7p3wTv7VjUV50+
+Jme8J7f/ufDxquX7OztTmtRXcgMTVzV2tS2wC7R1H5/5E05OeT3n0W+3sg+2jGnd
+vCRPaKf3ZI75F0GPCbs=
+=aWE/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brentstewart
+
+==================================================================
