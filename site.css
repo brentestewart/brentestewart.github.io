@@ -1,0 +1,28 @@
+.social {
+    width: 100px;
+    height: 100px;
+    padding-right: 15px;
+}
+
+.card {
+    position:absolute; 
+    top:35%; 
+    left: 10%;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    font-size: 48px;
+} 
+
+@media only screen and (max-width: 1080px) {
+    h1 { font-size: 72px !important; }
+    h2 { font-size: 14px !important; }
+    h3 { font-size: 12px !important; }
+  }
