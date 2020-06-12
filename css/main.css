@@ -64,10 +64,11 @@ code {
     background-color: rgb(255,246,234);
 }
 
-ppre code, pre {
+pre code, pre {
     background-color: black;
     color: lightblue;
     padding: 10px;
     border-radius: 10px;
     font-size: 12pt;
+    padding: 1.5px 5px 1.5px 5px;
 }
