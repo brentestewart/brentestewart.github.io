@@ -62,7 +62,7 @@ ul.posts li { list-style: none; }
 
 code {
     background-color: rgb(255,246,234);
-    padding: 1.5px 5px 1.5px 5px !important;
+    padding: 1.5px 5px 1.5px 5px;
 }
 
 pre code, pre {
