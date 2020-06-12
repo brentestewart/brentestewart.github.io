@@ -72,3 +72,7 @@ pre code, pre {
     font-size: 12pt;
     padding: 1.5px 5px 1.5px 5px;
 }
+
+pre {
+    padding: 1.5px 5px 1.5px 5px !important;
+}
