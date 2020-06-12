@@ -7,7 +7,7 @@ date: 2014-04-30
 1. Start rebase process with 
 
 
-    ~~~ powershell
+    ~~~
     git rebase -i HEAD~<number of commits to rebase>
     ~~~
 
@@ -27,7 +27,7 @@ date: 2014-04-30
     * Next do a commit with the updated dates:
 
 
-        ~~~ powershell
+        ~~~
         git commit --amend --no-edit --date=$env:GIT_COMMITTER_DATE
         ~~~
 
