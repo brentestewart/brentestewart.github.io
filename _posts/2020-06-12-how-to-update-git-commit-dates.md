@@ -12,7 +12,7 @@ date: 2014-04-30
     ~~~
 
 
-2. Editor is show. Change all `pick` to `edit` for the ones you want to update. Save and exit editor
+2. Editor is shown with all commits listed. Change all `pick` to `edit` for the ones you want to update. Save and exit editor
 
 3. Then for each commit rebase do the following:
     
