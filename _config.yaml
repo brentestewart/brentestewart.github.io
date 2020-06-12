@@ -1,2 +1,4 @@
 name: Brent Stewart
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]

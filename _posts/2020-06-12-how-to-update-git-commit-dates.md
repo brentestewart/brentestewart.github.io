@@ -7,7 +7,7 @@ date: 2014-04-30
 
 
     ~~~
-    git rebase -i HEAD~<number of commits to rebase>
+    git rebase -i HEAD~<number of commits to rebase> - 123
     ~~~
 
 
