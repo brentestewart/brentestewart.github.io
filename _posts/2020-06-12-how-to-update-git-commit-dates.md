@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to update git commit dates"
-date: 2014-04-30
+date: 2020-06-12
 ---
 
 1. Start rebase process with 
