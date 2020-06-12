@@ -5,9 +5,11 @@ date: 2014-04-30
 ---
 1) Start rebase process with 
 
+
     ~~~
     git rebase -i HEAD~<number of commits to rebase>
     ~~~
+
 
 2) Editor is show. Change all `pick` to `edit` for the ones you want to update. Save and exit editor
 
