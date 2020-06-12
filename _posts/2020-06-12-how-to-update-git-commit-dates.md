@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brent Stewart, How to update git commit dates"
+title: "How to update git commit dates"
 date: 2014-04-30
 ---
 

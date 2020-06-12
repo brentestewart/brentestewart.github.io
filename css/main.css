@@ -30,7 +30,7 @@ ul.posts {
 }
 ul.posts li { list-style: none; }
 
-.post {
+.posts {
     background-color: white;
     min-height: 600px;
     box-shadow: black 5px 5px; 
