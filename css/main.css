@@ -61,5 +61,13 @@ ul.posts li { list-style: none; }
 }
 
 code {
-    font-size: 16pt;
+    background-color: rgb(255,246,234);
+}
+
+ppre code, pre {
+    background-color: black;
+    color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 12pt;
 }
