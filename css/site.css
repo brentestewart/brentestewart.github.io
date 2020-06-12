@@ -10,11 +10,6 @@
     left: 10%;
 }
 
-body {
-    background-image: url("images/background.jpg");
-    background-size: cover;
-}
-
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: darkblue;
