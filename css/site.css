@@ -9,6 +9,26 @@
     top:35%; 
 }
 
+.talks-link {
+    position: absolute;
+    top: 28px;
+    right: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+}
+
+.talks-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.talks-link:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 4px;
+}
+
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: darkblue;
